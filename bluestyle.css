@@ -3,6 +3,8 @@ background-color: CornflowerBlue;
 }
 
 h1 {
+text-align: center;  
 color: navy;
-margin-left: 20px;
+margin: 20px 0;
+font-size: 36px;
 }
